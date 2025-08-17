@@ -88,13 +88,13 @@ http://127.0.0.1:5000/
 ## 📷 Screenshots  
 
 ### 1. Closing Price with EMA 20 & 50  
-![EMA 20 & 50](./static/ema_20_50.png)  
+![EMA 20 & 50](https://raw.githubusercontent.com/Adi1972004/Stock-Market-Trend-Prediction/main/static/ema_20_50.png)
 
 ### 2. Closing Price with EMA 100 & 200  
-![EMA 100 & 200](./static/ema_100_200.png)  
+![EMA 100 & 200](https://raw.githubusercontent.com/Adi1972004/Stock-Market-Trend-Prediction/main/static/ema_100_200.png)
 
 ### 3. Predicted vs Original Price  
-![Prediction vs Original](./static/stock_prediction.png)  
+![Prediction vs Original](https://raw.githubusercontent.com/Adi1972004/Stock-Market-Trend-Prediction/main/static/stock_prediction.png) 
 
 📑 Example Dataset
 
