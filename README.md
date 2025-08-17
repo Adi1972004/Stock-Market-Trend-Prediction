@@ -35,17 +35,28 @@ It allows users to enter a stock ticker (default: `POWERGRID.NS`) and view:
 
 📁 Stock-Market-Trend-Prediction
 │── app.py # Flask backend
+
 │── templates/
+
 │ └── index.html # Frontend template
+
 │── powergrid.csv # Sample dataset
+
 │── Stock Price Prediction.ipynb # Jupyter Notebook (model training/testing)
+
 │── static/
 │ │── ema_20_50.png # EMA chart (20 & 50 days)
+
 │ │── ema_100_200.png # EMA chart (100 & 200 days)
+
 │ │── stock_prediction.png # Prediction vs Original chart
+
 │ │── POWERGRID.NS_dataset.csv # Exported dataset (example)
+
 │── stock_dl_model.h5 # Pre-trained DL model (not included here)
+
 │── requirements.txt # Python dependencies
+
 │── README.md # Project documentation
 
 
